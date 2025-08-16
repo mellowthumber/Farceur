@@ -1,0 +1,14 @@
+{
+    "id": "farceur",
+    "prefix": "farceur",
+    "main_file": "main.lua",
+	"dependencies": [
+		"Balatro (>=1.0.1o-FULL)", 
+        "Lovely (>=0.8.0)", 
+        "Steamodded (>=1.0.0~BETA-0711a)"
+	],
+    "name": "Farceur",
+    "author": ["Ken Lawson (mellowthumber)"],
+    "version": "0.0.2a",
+    "description": ""
+}
