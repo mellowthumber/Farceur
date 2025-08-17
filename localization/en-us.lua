@@ -13,6 +13,15 @@ return {
             }
         },
         Joker = {
+            j_farceur_luckySeven = {
+                name = {
+                    "Lucky Seven"
+                },
+                text = {
+                    "All played {C:attention}7{}s become",
+                    "{C:attention}Lucky{} and retrigger"
+                }
+            },
             j_farceur_recordSkip = {
                 name = {
                     "Record Skip"
