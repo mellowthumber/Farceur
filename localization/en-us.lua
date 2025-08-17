@@ -8,6 +8,7 @@ return {
                 text = {
                     "{C:attention}Westimated{} - Russian localisation",
                     "{C:attention}DillyTheDillster{} - auto-load code, \"Bubble Gum\" concept",
+                    "{C:attention}realeddyplayz{} - \"Memory Card\" art",
                     "and {C:edition,E:1}special thanks{} to the Balatro community on", "the official and Steamodded Discord server."
                 }
             }

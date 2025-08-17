@@ -54,6 +54,8 @@ SMODS.Joker {
     loc_vars = function(self, info_queue, card)
         return { vars = { card.ability.extra.sHands, card.ability.extra.sDiscards, card.ability.extra.lHands, card.ability.extra.lDiscards } }
     end,
+    atlas = 'joker',
+    pos = { x = 1, y = 0 },
     discovered = true,
     rarity = 2, cost = 6
 }
