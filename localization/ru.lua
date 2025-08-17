@@ -8,6 +8,7 @@ return {
                 text = {
                     "{C:attention}Westimated{} - Русская локализация",
                     "{C:attention}DillyTheDillster{} - код автозагрузки, концепция Джокера \"Баббл-гам\"",
+                    "{C:attention}realeddyplayz{} - Арт для Джокера \"Карта Памяти\"",
                     "и {C:edition,E:1}отдельное спасибо{} сообществу по Balatro на", "оффициальных и Steamodded Discord серверах."
                 }
             }
