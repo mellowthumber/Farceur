@@ -18,6 +18,7 @@ SMODS.Joker {
         return { vars = { card.ability.extra.gChips } }
     end,
     atlas = 'joker',
+    pos = { x = 0, y = 0 },
     discovered = true,
     rarity = 2, cost = 5
 }

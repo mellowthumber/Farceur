@@ -34,5 +34,6 @@ SMODS.Joker {
         info_queue[#info_queue + 1] = G.P_CENTERS.m_lucky
     end,
     discovered = true,
-    rarity = 2, cost = 5
+    rarity = 2, cost = 5,
+    blueprint_compat = true
 }
