@@ -14,6 +14,15 @@ return {
             }
         },
         Joker = {
+            j_farceur_bonusJoker = {
+                name = {
+                    "Bonus Joker"
+                },
+                text = {
+                    "Played {C:chips}Bonus{} cards",
+                    "give {C:mult}+#1#{} Mult",
+                }
+            },
             j_farceur_bubbleGum = {
                 name = {
                     "Bubble Gum"
@@ -44,6 +53,15 @@ return {
                     "for the next {C:attention}Blind",
                     "{C:inactive}(Currently {C:blue}+#1#/#3#{C:inactive} Hands",
                     "{C:inactive}and {C:red}+#2#/#4#{C:inactive} Discards)"
+                }
+            },
+            j_farceur_multJoker = {
+                name = {
+                    "Mult Joker"
+                },
+                text = {
+                    "Played {C:mult}Mult{} cards",
+                    "give {C:chips}+#1#{} Chips",
                 }
             },
             j_farceur_recordSkip = {
