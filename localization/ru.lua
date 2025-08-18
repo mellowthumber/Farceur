@@ -34,6 +34,16 @@ return {
                     "{C:inactive}(Сейчас: {C:chips}+#1#{C:inactive} Фишек)"
                 }
             },
+            j_farceur_castingCall = {
+                name = {
+                    "Кастинг"
+                },
+                text = {
+                    "Получает {C:chips}+#2#{} Фишки при каждом",
+                    "добавлении {C:attention}Джокера{}",
+                    "{C:inactive}(Сейчас: {C:chips}+#1#{C:inactive} Фишек)"
+                }
+            },
             j_farceur_luckySeven = {
                 name = {
                     "Счастливая Семёрка"
