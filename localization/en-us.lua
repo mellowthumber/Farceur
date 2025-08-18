@@ -44,6 +44,16 @@ return {
                     "{C:inactive}(Currently {C:chips}+#1#{C:inactive} Chips)"
                 }
             },
+            j_farceur_eternalReward = {
+                name = {
+                    "Eternal Reward"
+                },
+                text = {
+                    "Played {C:chips}Bonus{} cards",
+                    "gain {X:mult,C:white}X#2#{} Mult",
+                    "{C:inactive}(Currently {X:mult,C:white}X#1#{C:inactive} Mult)"
+                }
+            },
             j_farceur_luckySeven = {
                 name = {
                     "Lucky Seven"
@@ -72,6 +82,16 @@ return {
                 text = {
                     "Played {C:mult}Mult{} cards",
                     "give {C:chips}+#1#{} Chips",
+                }
+            },
+            j_farceur_reciprocalGift = {
+                name = {
+                    "Reciprocal Gift"
+                },
+                text = {
+                    "Played {C:mult}Mult{} cards",
+                    "gain {X:chips,C:white}X#2#{} Chips",
+                    "{C:inactive}(Currently {X:chips,C:white}X#1#{C:inactive} Chips)"
                 }
             },
             j_farceur_recordSkip = {

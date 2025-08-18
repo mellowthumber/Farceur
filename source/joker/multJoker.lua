@@ -32,7 +32,7 @@ SMODS.Joker {
                     end
                 end
                 card.joker_display_values.mult = mult
-                card.joker_display_values.localized_text = localize{type = 'name_text', key = "m_mult", set = "Enhanced"}
+                card.joker_display_values.localized_text = localize{ type = 'name_text', key = "m_mult", set = "Enhanced" }
             end
         }
     end,
