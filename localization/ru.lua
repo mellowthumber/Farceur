@@ -14,6 +14,15 @@ return {
             }
         },
         Joker = {
+            j_farceur_bonusJoker = {
+                name = {
+                    "Бонусный Джокер"
+                },
+                text = {
+                    "Сыгранные {C:chips}Бонусыне{} карты",
+                    "дают {C:mult}+#1#{} Мульт.",
+                }
+            },
             j_farceur_bubbleGum = {
                 name = {
                     "Баббл-гам"
@@ -22,7 +31,7 @@ return {
                     "Получает фишки с",
                     "{C:chips}подсчитанных карт{} за каждую руку,",
                     "сбрасывается до нуля при {C:attention}сбросе карт",
-                    "{C:inactive}(Сейчас: {C:chips}+#1#{C:inactive} Фишек)",
+                    "{C:inactive}(Сейчас: {C:chips}+#1#{C:inactive} Фишек)"
                 }
             },
             j_farceur_luckySeven = {
@@ -44,6 +53,15 @@ return {
                     "для следующего {C:attention}блайнда",
                     "{C:inactive}(Сейчас: {C:blue}+#1#/#3#{C:inactive} Рук",
                     "{C:inactive}и {C:red}+#2#/#4#{C:inactive} Сбросов)"
+                }
+            },
+            j_farceur_multJoker = {
+                name = {
+                    "Мульт. Джокер"
+                },
+                text = {
+                    "Сыгранные {C:mult}Мульт.{} карты",
+                    "дают {C:chips}+#1#{} Фишек",
                 }
             },
             j_farceur_recordSkip = {

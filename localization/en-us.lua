@@ -34,6 +34,16 @@ return {
                     "{C:inactive}(Currently {C:chips}+#1#{C:inactive} Chips)",
                 }
             },
+            j_farceur_castingCall = {
+                name = {
+                    "Casting Call"
+                },
+                text = {
+                    "Gains {C:chips}+#2#{} Chips when",
+                    "a {C:attention}Joker{} is added",
+                    "{C:inactive}(Currently {C:chips}+#1#{C:inactive} Chips)"
+                }
+            },
             j_farceur_luckySeven = {
                 name = {
                     "Lucky Seven"
