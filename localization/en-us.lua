@@ -19,7 +19,7 @@ return {
                     "Bonus Joker"
                 },
                 text = {
-                    "Played {C:chips}Bonus{} cards",
+                    "Played {C:chips}Bonus{} {C:attention}Cards",
                     "give {C:mult}+#1#{} Mult",
                 }
             },
@@ -49,9 +49,9 @@ return {
                     "Eternal Reward"
                 },
                 text = {
-                    "Played {C:chips}Bonus{} cards",
-                    "gain {X:mult,C:white}X#2#{} Mult",
-                    "{C:inactive}(Currently {X:mult,C:white}X#1#{C:inactive} Mult)"
+                    "This Joker gains {X:mult,C:white}X#2#{} Mult",
+                    "per scored {C:chips}Bonus{} {C:attention}Card",
+                    "{C:inactive}(Currently {X:mult,C:white}X#1#{C:inactive} Chips)"
                 }
             },
             j_farceur_luckySeven = {
@@ -80,7 +80,7 @@ return {
                     "Mult Joker"
                 },
                 text = {
-                    "Played {C:mult}Mult{} cards",
+                    "Played {C:mult}Mult{} {C:attention}Cards",
                     "give {C:chips}+#1#{} Chips",
                 }
             },
@@ -89,8 +89,8 @@ return {
                     "Reciprocal Gift"
                 },
                 text = {
-                    "Played {C:mult}Mult{} cards",
-                    "gain {X:chips,C:white}X#2#{} Chips",
+                    "This Joker gains {X:chips,C:white}X#2#{} Chips",
+                    "per scored {C:mult}Mult{} {C:attention}Card",
                     "{C:inactive}(Currently {X:chips,C:white}X#1#{C:inactive} Chips)"
                 }
             },
